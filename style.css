@@ -1,0 +1,11 @@
+#camera{
+    border: 5px dashed black;
+    width: 300px;
+    height: 300px;
+}
+
+.heading{
+    font-weight: bold;
+    width: 500px;
+}
+
